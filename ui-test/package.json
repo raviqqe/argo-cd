@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/selenium-webdriver": "^4.0.9",
     "assert": "^2.0.0",
-    "chromedriver": "^94.0.0",
+    "chromedriver": "^119.0.1",
     "selenium-webdriver": "^4.0.0-alpha.7"
   },
   "devDependencies": {
@@ -27,6 +27,6 @@
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.0.1",
     "typescript": "^4.0.3",
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.13"
   }
 }
